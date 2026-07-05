@@ -12,19 +12,6 @@ This webpage introduces:
 - My GitHub profile links
 - Styled layout using inline CSS
 
-## 🛠️ Technologies Used
-
-- HTML5
-- Inline CSS (style attribute)
-
-## 📌 Features
-
-- Simple and clean design
-- Custom color theme
-- Skill icons using external image links
-- GitHub profile and repository links
-- Beginner-friendly structure
-
 ## 🎯 Purpose
 
 The purpose of this project is to:
@@ -32,16 +19,3 @@ The purpose of this project is to:
 - Learn basic CSS styling
 - Build a personal developer profile page
 - Improve frontend development skills
-
-## 🚀 Future Improvements
-
-- Add external CSS file instead of inline styles
-- Make it responsive for mobile devices
-- Add project showcase section
-- Add contact form
-- Improve design with animations
-
-## 👩‍💻 Author
-
-**Fatima**  
-GitHub: https://github.com/fatimaaziz27
